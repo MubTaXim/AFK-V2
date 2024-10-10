@@ -1,6 +1,6 @@
 # Minecraft AFK Bot v2
 
-A Minecraft bot using **mineflayer** and **mineflayer-pathfinder** that can explore the world randomly. This bot can navigate through the Minecraft world, avoid hostile mobs, and automatically reconnect if it gets kicked from the server.
+A duel Minecraft bot using **mineflayer** and **mineflayer-pathfinder** that can explore the world randomly. These two bot can navigate through the Minecraft world and automatically reconnect if it gets kicked from the server. These bot functions independendtly without relying on eachother.
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@ A Minecraft bot using **mineflayer** and **mineflayer-pathfinder** that can expl
 
 - Random exploration of the Minecraft world.
 - Pathfinding capabilities using mineflayer-pathfinder.
-- Automatically detects and avoids hostile mobs.
 - Reconnects automatically if kicked from the server.
 - Lightweight and easy to configure.
 
@@ -46,12 +45,15 @@ To start the bot, run:
 npm start
 ```
 ## Configuration
+
 You can configure the bot settings by modifying the code in index.js.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE). However, commercial use is not permitted without explicit permission from the author. Please see the LICENSE file for more details.
 
 ## Author
+
 [Mubtasim Hasan](https://github.com/MubTaXim)
 
 
