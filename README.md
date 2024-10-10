@@ -45,13 +45,13 @@ To start the bot, run:
 ```bash
 npm start
 ```
-#Configuration
+## Configuration
 You can configure the bot settings by modifying the code in index.js.
 
-#License
+## License
 This project is licensed under the MIT License.
 
-#Author
+## Author
 [Mubtasim Hasan](https://github.com/MubTaXim)
 
 
