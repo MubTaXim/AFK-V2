@@ -30,7 +30,29 @@ A Minecraft bot using **mineflayer** and **mineflayer-pathfinder** that can expl
 1. Clone the repository:
 ```bash
    git clone https://github.com/MubTaXim/AFK-V2.git
+```
+```bash
    cd AFK-V2
+```
 2. Install the required dependencies:
-   npm install
-#Usage 
+  ```bash
+ npm install
+```
+## Usage
+
+To start the bot, run:
+
+```bash
+npm start
+```
+#Configuration
+You can configure the bot settings by modifying the code in index.js.
+
+#License
+This project is licensed under the MIT License.
+
+#Author
+[Mubtasim Hasan](https://github.com/MubTaXim)
+
+
+
