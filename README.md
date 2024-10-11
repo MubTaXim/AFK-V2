@@ -1,3 +1,7 @@
+## Note
+Updated version is [AFK-V3](https://github.com/MubTaXim/AFK-V3)
+
+
 # Minecraft AFK Bot v2 (Source)
 
 A duel Minecraft bot using **mineflayer** and **mineflayer-pathfinder** that can explore the world randomly. These two bot can navigate through the Minecraft world and automatically reconnect if it gets kicked from the server. These bot functions independendtly without relying on eachother.
