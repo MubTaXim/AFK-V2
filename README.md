@@ -1,5 +1,5 @@
 ## Note
-**Updated version is [AFK-V3]**(https://github.com/MubTaXim/AFK-V3)
+**Updated version is** [AFK-V3](https://github.com/MubTaXim/AFK-V3)
 
 
 # Minecraft AFK Bot v2 (Source)
